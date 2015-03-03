@@ -1,0 +1,2 @@
+# DataScCourse
+Course project repository
